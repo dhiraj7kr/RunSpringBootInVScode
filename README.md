@@ -1,4 +1,4 @@
-# README for Spring Boot Project in VS Code
+# Spring Boot Project in VS Code
 
 ## Setting Up the Project
 
